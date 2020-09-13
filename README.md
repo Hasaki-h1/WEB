@@ -1,2 +1,2 @@
 # WEB
-Some gadgets write by js+html.
+a small tool for Extract IP domain name.
